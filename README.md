@@ -181,3 +181,20 @@ hasil_jpg/        -> File sementara (otomatis dihapus)
 *   Hak cipta modul sepenuhnya milik **Universitas Terbuka**
 
 #Dutzki
+---
+
+## ☕ Dukung Pengembangan (Donasi)
+
+Jika project ini membantu kamu dalam proses belajar atau kebutuhan akademik,  
+kamu bisa mendukung pengembang dengan donasi seikhlasnya 🙏
+
+Donasi akan digunakan untuk:
+- Pengembangan fitur lanjutan
+- Perbaikan bug
+- Maintenance project
+
+👉 **Link Donasi:**
+https://sociabuzz.com/dutzki/tribe
+
+Terima kasih atas dukungannya ❤️
+``
