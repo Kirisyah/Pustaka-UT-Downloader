@@ -1,9 +1,3 @@
-Siap 👍  
-Berikut **README.md FINAL versi lengkap**, sudah **termasuk cara install + cara pakai persis seperti alur yang kamu jelaskan**.  
-Tinggal **copy–paste semua isi ini ke `README.md`** lalu upload ke GitHub.
-
-***
-
 ````md
 # Pustaka UT Downloader
 
