@@ -1,0 +1,36 @@
+{
+  "name": "pustaka-ut-downloader",
+  "version": "1.0.0",
+  "description": "Unduh modul/buku dari Pustaka UT (JPG) dan gabungkan menjadi PDF",
+  "main": "downloader.js",
+  "scripts": {
+    "start": "node downloader.js",
+    "download": "node downloader.js"
+  },
+  "keywords": [
+    "pustaka-ut",
+    "ut",
+    "downloader",
+    "pdf",
+    "scraper",
+    "puppeteer"
+  ],
+  "author": "Kirisyah",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "images-to-pdf": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kirisyah/pustaka-ut-downloader"
+  },
+  "bugs": {
+    "url": "https://github.com/Kirisyah/pustaka-ut-downloader/issues"
+  },
+  "homepage": "https://github.com/Kirisyah/pustaka-ut-downloader#readme"
+}
